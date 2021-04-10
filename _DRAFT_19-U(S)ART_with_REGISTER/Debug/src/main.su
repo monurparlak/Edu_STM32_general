@@ -1,0 +1,11 @@
+main.c:48:6:Delay	16	static
+main.c:53:6:PLL_CLOCK_CONFIG_REGISTER	4	static
+main.c:71:6:GPIO_CONFIG_REGISTER	4	static
+main.c:81:6:USART_CONFIG_REGISTER	4	static
+main.c:96:6:NVIC_CONFIG_REGISTER	4	static
+main.c:101:6:USART3_IRQHandler	16	static
+main.c:109:6:Send_Char	16	static
+main.c:115:6:Send_Message	16	static
+main.c:124:5:main	16	static
+main.c:139:6:EVAL_AUDIO_TransferComplete_CallBack	16	static
+main.c:144:10:EVAL_AUDIO_GetSampleCallBack	4	static
